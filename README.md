@@ -1,2 +1,10 @@
-# env_setter
-Sets the enviorment in a mac
+# hantaro_env_setter
+
+Prerequisites
+
+- Iterm2
+- Brew
+- git
+- atom
+- SSH configures to Bitbucked
+- 
